@@ -26,7 +26,7 @@
             echo("</div>");
             
             $queryTab = "сontribution_info";
-            $headText = "Таблица зачетная ведомость";
+            $headText = "Таблица зачетная Банк";
             $arrayTitle = array("№", "Дата создания вклада", "Программа депозита", "Стартовая сумма вклада", "Изменить", "Удалить");
             $query = "SELECT * FROM $database.$queryTab";
             $result = mysqli_query($link, $query) or die("Не могу выполнить запрос!");
