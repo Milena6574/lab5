@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$user = 'f0475748_user';
-$password = 'root';
-$database = 'f0475748_Krymguzhin';
+$user = 'f0492920_BD';
+$password = '8UYCsw3H';
+$database = 'f0492920_BD';
 ?>
